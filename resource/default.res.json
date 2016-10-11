@@ -1,0 +1,65 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,background2_jpeg,kojima_png,background_jpeg,2333_png,p1_png,p2_png,p3_png,p4_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "background2_jpeg",
+			"type": "image",
+			"url": "assets/background2.jpeg"
+		},
+		{
+			"name": "kojima_png",
+			"type": "image",
+			"url": "assets/kojima.png"
+		},
+		{
+			"name": "background_jpeg",
+			"type": "image",
+			"url": "assets/background.jpeg"
+		},
+		{
+			"name": "2333_png",
+			"type": "image",
+			"url": "assets/2333.png"
+		},
+		{
+			"name": "p1_png",
+			"type": "image",
+			"url": "assets/p1.png"
+		},
+		{
+			"name": "p2_png",
+			"type": "image",
+			"url": "assets/p2.png"
+		},
+		{
+			"name": "p3_png",
+			"type": "image",
+			"url": "assets/p3.png"
+		},
+		{
+			"name": "p4_png",
+			"type": "image",
+			"url": "assets/p4.png"
+		}
+	]
+}
